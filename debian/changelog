@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+libbibtex-parser-perl (1.04+dfsg-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 1.04+dfsg
+  * Update debian/copyright.
+  * Update standards version to 4.6.2, no changes needed.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Andrius Merkys <merkys@debian.org>  Thu, 24 Aug 2023 01:37:46 -0400
+
+libbibtex-parser-perl (1.03+dfsg-2) unstable; urgency=medium
+
+  * Team upload
+  * No-changes source-only upload to enable testing migration
+
+ -- Damyan Ivanov <dmn@debian.org>  Sat, 11 Dec 2021 21:21:14 +0000
+
+libbibtex-parser-perl (1.03+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1000630)
+
+ -- Andrius Merkys <merkys@debian.org>  Fri, 26 Nov 2021 01:29:29 -0500
